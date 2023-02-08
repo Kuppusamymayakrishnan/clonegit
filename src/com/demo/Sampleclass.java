@@ -8,6 +8,14 @@ public class Sampleclass {
 		
 		System.out.println("123000");
 		
+		System.out.println("111111111");
+		
+		System.out.println("22222222");
+		
+		System.out.println("..........");
+		
+		System.out.println(",,,,,,,,,,");
+		
 		
 	}
 	
